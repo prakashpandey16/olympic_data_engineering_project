@@ -51,4 +51,4 @@ You are free to use, modify, and share this project with proper attribution.
 
 I'm **Prakash Pandey**, a BCA student passionate about **Data Engineering**, building real-world data solutions, and solving business problems with technology.
 
-- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/prakash-pandey-884590263/)
+- 🔗 [Connect with me on LinkedIn](linkedin.com/in/prakash-pandey-2827522b1/)
